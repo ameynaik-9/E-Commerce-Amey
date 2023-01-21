@@ -42,7 +42,7 @@ flex: 1;
 const Newsletter = () => {
     return (
         <Container>
-            <Title>Newsletter</Title>
+            <Title>Newsletter for Latest Updates</Title>
             <Desc>Get timely updates from your favourite products!</Desc>
             <InputContainer>
                 <Input placeholder="Your email" />
